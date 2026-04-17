@@ -35,7 +35,7 @@ Minhas áreas de interesse incluem desenvolvimento de software, design criativo 
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://a.imagem.app/Br8Num.png" height="180px" />
+    <img src="https://raw.githubusercontent.com/Brvnogr/Brvnogr/refs/heads/main/Octocat%20violinist.png" height="180px" alt="Octocat violinist" />
     <img src="https://github-readme-stats.vercel.app/api?username=Brvnogr&show_icons=true&theme=transparent&border_color=00000000" height="180px" />
   </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brvnogr&layout=compact&langs_count=7&theme=transparent&border_color=00000000&card_width=430"/>
@@ -59,4 +59,4 @@ Minhas áreas de interesse incluem desenvolvimento de software, design criativo 
 
 👊🏻 Obrigado por visitar meu perfil!
 
-![Snake animation](https://github.com/filipelamego/filipelamego/blob/main/cobrinha.svg)
+![Snake Game](https://raw.githubusercontent.com/Brvnogr/Brvnogr/refs/heads/main/snake.svg)
